@@ -29,6 +29,7 @@ export default defineConfig({
       { text: '模板示例', link: '/template-examples' },
       { text: '常见问题', link: '/faq' },
       { text: '社区交流', link: '/community' },
+      { text: '赞助我们', link: '/sponsor' },
     ],
 
     sidebar: [
@@ -39,6 +40,7 @@ export default defineConfig({
           { text: '模板示例', link: '/template-examples' },
           { text: '常见问题', link: '/faq' },
           { text: '社区交流', link: '/community' },
+          { text: '赞助我们', link: '/sponsor' },
         ]
       }
     ],

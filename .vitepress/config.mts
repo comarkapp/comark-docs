@@ -89,12 +89,9 @@ const config = {
         const { pathname, search, hash } = window.location;
         if (pathname !== '/' && pathname !== '/index.html') return;
 
-        const languages = Array.isArray(navigator.languages) && navigator.languages.length > 0
-          ? navigator.languages
-          : [navigator.language].filter(Boolean);
-        const preferred = languages.join(',').toLowerCase();
+        const preferred = (navigator.language || '').toLowerCase();
 
-        if (preferred.includes('en')) {
+        if (preferred.startsWith('en')) {
           window.location.replace('/en/' + search + hash);
         }
       })();`

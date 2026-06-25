@@ -10,6 +10,6 @@ Your support helps cover ongoing work such as:
 
 We currently accept sponsorships through Aifadian:
 
-- [Support Copicseal on Aifadian](https://www.ifdian.net/a/kohai)
+- [Support Copicseal on Aifadian](https://ifdian.net/a/kohai)
 
 Whether you sponsor, star the project, send feedback, or share Copicseal with friends, it all helps move the project forward. Thank you.

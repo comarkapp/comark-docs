@@ -10,6 +10,6 @@
 
 我们目前通过爱发电接受赞助：
 
-- [前往爱发电支持 Copicseal](https://www.ifdian.net/a/kohai)
+- [前往爱发电支持 Copicseal](https://ifdian.net/a/kohai)
 
 无论是赞助、Star、反馈建议，还是把 Copicseal 分享给身边朋友，都是对项目非常实在的支持。谢谢你愿意一起让这个小工具变得更好。
